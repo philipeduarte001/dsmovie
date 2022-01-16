@@ -1,9 +1,8 @@
 # dsmovie
 Tecnologias utilizadas no projeto
-- React JS
-- Java
-- Spring Boot
-- Typescript
-- CSS
-- Bootstrap
-- Figma
+- React JS;
+- Java; 
+- Spring Boot;
+- Typescript;
+- CSS;
+- Bootstrap;

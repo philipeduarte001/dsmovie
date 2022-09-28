@@ -1,5 +1,5 @@
 # dsmovie
-Tecnologias utilizadas no projeto
+Tecnologias utilizadas
 - React JS;
 - Java; 
 - Spring Boot;
